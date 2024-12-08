@@ -1,0 +1,10 @@
+Daily Sales Report - 2024-11-30
+
+Time,Order ID,Customer,Items,Amount,Discount,Net Amount
+11:17:28,1732987048,shakil,11,7200.00,800.00,6400.00
+
+Daily Summary
+Total Orders,1
+Total Sales,7200.00
+Total Discounts,800.00
+Net Sales,6400.00
